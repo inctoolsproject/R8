@@ -1,0 +1,3 @@
+cl = SATAN.LINE()
+cl.login(token='En3kgqQg4ATSWJxAZF44.vbU6UHxwJZPLiqAG3LO/La.Q0z3hJ+mlfEFCotumfXBdlGMKteG0Fb3qaqeC8S3az8=')
+cl.loginResult()
